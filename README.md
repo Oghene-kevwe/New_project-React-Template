@@ -1,5 +1,10 @@
 # React + Vite
 
+Simple React Template to start a new project.
+- Variable names are self explanatory
+- TailwindCSS
+- Hooks
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
@@ -8,5 +13,3 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-Simple React Template to start a new project - Vite, TailwindCSS, Hooks.
-Variable names are self explanatory
