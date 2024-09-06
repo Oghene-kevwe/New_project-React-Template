@@ -12,7 +12,7 @@ export const NavLinks = ({ showSideBar }) => {
 
   return (
     <aside
-      className={` globalTransition absolute w-[80%] bg-black bg-opacity-80 z-20  text-white h-screen top-0 left-0 
+      className={`  absolute w-[80%] bg-black bg-opacity-80 z-20  text-white h-screen top-0 left-0 
       ${!showSideBar ? "-translate-x-[100%]" : "translate-x-0"} p-2  pl-4 `}
     >
       <div className=" flex flex-col gap-y-3 text-xl">

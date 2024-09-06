@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
-.globalTransition{
-    @apply duration-300 ease-in-out transition
+.globalTransitions {
+  @apply transition-all duration-300 ease-out;
 }
